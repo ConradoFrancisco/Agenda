@@ -1,4 +1,9 @@
+body{
+  margin: 0;
+}
 main{
+  margin: 0;
+  background-color: #faffff;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -15,4 +20,9 @@ main{
 
 .calendar div{
   border: solid 1px #000;
+}
+.calendar .dia{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
