@@ -1,0 +1,9 @@
+.hovered:hover{
+    cursor: pointer;
+}
+h3{
+    margin: 0;
+}
+.not-hovered{
+    background-color: #b9baba;
+}
